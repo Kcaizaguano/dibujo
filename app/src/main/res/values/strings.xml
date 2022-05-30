@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Garabatos</string>
+    <string name="Color">Color</string>
+    <string name="Brush">Brush</string>
+    <string name="Clear">Borrar</string>
+    <string name="Save">Guardar</string>
+    <string name="Print">Imprimir</string>
+    <string name="Load">Cargar</string>
+    <string name="label_red">Rojo</string>
+    <string name="label_alpha">Opacidad</string>
+    <string name="label_green">Verde</string>
+    <string name="label_blue">Azul</string>
+    <string name="set_color">Obtener Color</string>
+    <string name="set_line_width">Ancho de linea</string>
+</resources>
